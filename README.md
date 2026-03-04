@@ -7,6 +7,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,8 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3019-number-of-changing-keys](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3019-number-of-changing-keys/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 <!---LeetCode Topics End-->
