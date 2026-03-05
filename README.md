@@ -15,9 +15,14 @@ c++
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 <!---LeetCode Topics End-->
