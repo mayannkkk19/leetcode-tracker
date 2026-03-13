@@ -30,6 +30,7 @@ c++
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Hash Table
@@ -43,9 +44,15 @@ c++
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
