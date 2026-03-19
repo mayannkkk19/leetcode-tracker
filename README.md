@@ -27,6 +27,7 @@ c++
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3110-score-of-a-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
