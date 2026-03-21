@@ -25,6 +25,7 @@ c++
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -45,6 +46,7 @@ c++
 | ------- | ------- |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +67,8 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 <!---LeetCode Topics End-->
