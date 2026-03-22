@@ -25,6 +25,7 @@ c++
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -51,6 +52,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
