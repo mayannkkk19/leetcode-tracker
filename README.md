@@ -34,6 +34,7 @@ c++
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -73,4 +74,8 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
