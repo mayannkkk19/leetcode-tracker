@@ -17,20 +17,20 @@ public:
         tank = 0;
 
         while(1){
-                if(tank + gas[j] >= cost[j]){
-                    tank = tank + gas[j] - cost[j];
-                    count++;
-                    j = (j + 1)%gas.size();
-                    if(count == gas.size()){
-                        return j;
-                    }
-                }else{
-                    tank = 0;
-                    count = 0;
-                    j = (j+1)%gas.size();
-                    idx = j;
+            if(tank + gas[j] >= cost[j]){
+                tank = tank + gas[j] - cost[j];
+                count++;
+                j = (j + 1)%gas.size();
+                if(count == gas.size()){
+                    return j;
                 }
+            }else{
+                tank = 0;
+                count = 0;
+                j = (j+1)%gas.size();
+                idx = j;
             }
+        }
 
         return idx;
     }
