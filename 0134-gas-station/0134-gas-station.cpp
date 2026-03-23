@@ -22,7 +22,8 @@ public:
                 count++;
                 j = (j + 1)%gas.size();
                 if(count == gas.size()){
-                    return j;
+                    idx = j;
+                    break;
                 }
             }else{
                 tank = 0;
