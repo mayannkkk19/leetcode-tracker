@@ -14,6 +14,7 @@ c++
 | [2769-find-the-maximum-achievable-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3024-type-of-triangle](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ c++
 | [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
