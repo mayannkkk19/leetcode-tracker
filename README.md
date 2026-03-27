@@ -8,6 +8,7 @@ c++
 | ------- | ------- |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
+| [1323-maximum-69-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -90,6 +91,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
+| [1323-maximum-69-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
