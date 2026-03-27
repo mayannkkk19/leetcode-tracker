@@ -41,6 +41,7 @@ c++
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -67,6 +68,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
@@ -88,4 +90,9 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
