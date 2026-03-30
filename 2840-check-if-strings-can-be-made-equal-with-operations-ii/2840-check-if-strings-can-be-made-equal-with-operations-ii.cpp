@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool checkStrings(string s1, string s2) {
-        unordered_map<char, int> mp;
         unordered_map<char, pair<int, int>> mp1;
         unordered_map<char, pair<int, int>> mp2;
         int n = s1.size();
