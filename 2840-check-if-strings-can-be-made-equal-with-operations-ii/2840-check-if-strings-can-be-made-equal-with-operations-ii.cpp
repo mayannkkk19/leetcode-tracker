@@ -18,20 +18,7 @@ public:
             }
         }
 
-        for(int i = 0; i < n; i++){
-            mp[s1[i]]++;
-            mp[s2[i]]--;
-        }
 
-        if(s1 == s2){
-            return true;
-        }
-
-        for(auto x: mp){
-            if(x.second != 0){
-                return false;
-            }
-        }
 
         for(int i = 0; i < n; i++){
             if((mp1[s1[i]].first != mp2[s1[i]].first) || (mp1[s1[i]].second != mp2[s1[i]].second) ){
