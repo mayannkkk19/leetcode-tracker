@@ -20,6 +20,7 @@ c++
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ c++
 | ------- | ------- |
 | [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -59,6 +61,7 @@ c++
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
+| [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -72,6 +75,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
