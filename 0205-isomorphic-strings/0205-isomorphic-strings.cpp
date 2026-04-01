@@ -11,8 +11,7 @@ public:
                 return false;
             }
             maps[s[i]] = t[i];
-        }
-        for(int i = 0; i < s.size(); i++){
+
             if(mapz.find(t[i]) != mapz.end() && mapz[t[i]] != s[i]){
                 return false;
             }
