@@ -8,17 +8,17 @@ public:
 
         for(int i = 0; i < s.size(); i++){
             if(maps.find(s[i]) != maps.end() && maps[s[i]] != t[i]){
-                ans = false;
+                return false;
             }
             maps[s[i]] = t[i];
         }
         for(int i = 0; i < s.size(); i++){
             if(mapz.find(t[i]) != mapz.end() && mapz[t[i]] != s[i]){
-                ans = false;
+                return false;
             }
             mapz[t[i]] = s[i];
         }
 
-        return ans;
+        return true;
     }
 };
