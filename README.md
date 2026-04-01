@@ -25,6 +25,7 @@ c++
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -59,6 +60,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
