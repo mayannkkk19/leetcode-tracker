@@ -30,6 +30,7 @@ c++
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
@@ -46,6 +47,7 @@ c++
 | [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -66,6 +68,7 @@ c++
 | [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -98,6 +101,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
