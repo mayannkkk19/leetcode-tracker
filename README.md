@@ -33,6 +33,7 @@ c++
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -52,6 +53,7 @@ c++
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -79,6 +81,7 @@ c++
 | ------- | ------- |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
