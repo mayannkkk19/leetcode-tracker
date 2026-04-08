@@ -48,6 +48,7 @@ c++
 | ------- | ------- |
 | [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
@@ -70,6 +71,7 @@ c++
 | [0205-isomorphic-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -80,6 +82,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -87,6 +90,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -119,4 +123,8 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
