@@ -6,6 +6,7 @@ c++
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
@@ -47,6 +48,7 @@ c++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
+| [0189-rotate-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
@@ -81,6 +83,7 @@ c++
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
