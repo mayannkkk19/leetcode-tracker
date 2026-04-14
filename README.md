@@ -12,6 +12,7 @@ c++
 | [1323-maximum-69-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3024-type-of-triangle](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
@@ -107,6 +108,7 @@ c++
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
