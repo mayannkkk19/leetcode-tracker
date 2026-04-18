@@ -49,6 +49,7 @@ c++
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0134-gas-station](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 | [0189-rotate-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
@@ -134,5 +135,6 @@ c++
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
