@@ -17,6 +17,7 @@ c++
 | [2769-find-the-maximum-achievable-number](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3024-type-of-triangle](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Bit Manipulation
