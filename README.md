@@ -55,6 +55,7 @@ c++
 | [0229-majority-element-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
+| [0682-baseball-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0682-baseball-game/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -110,6 +111,7 @@ c++
 | ------- | ------- |
 | [0415-add-strings](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0682-baseball-game/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2974-minimum-number-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
@@ -139,4 +141,8 @@ c++
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
