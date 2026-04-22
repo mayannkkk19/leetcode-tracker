@@ -57,6 +57,7 @@ c++
 | [0645-set-mismatch](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/mayannkkk19/leetcode-tracker/tree/main/0682-baseball-game/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1528-shuffle-string](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mayannkkk19/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
